@@ -8,8 +8,8 @@ def div(a,b):
     return a/b
 
 if __name__=="__main__":
-    print("hello python")
-    print("hi pycharm")
+    print("{}{}".format("hello python","hi pycharm"))
+
     x=10
     y=5
     res=add(x,y)
