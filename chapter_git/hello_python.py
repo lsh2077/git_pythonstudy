@@ -1,10 +1,13 @@
 def add(a,b):
     return a+b
 
+def div(a,b):
+    return a/b
+
 if __name__=="__main__":
     print("hello python")
     print("hi pycharm")
     x=10
     y=5
     res=add(x,y)
-    print("add({},{}) result =>{}".format(x,y,res))
+    print("add({},{})={}\ndiv({},{})={}".format(x,y,add(x,y),x,y,div(x,y)))
