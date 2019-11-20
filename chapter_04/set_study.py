@@ -15,5 +15,5 @@ def lotto_generator():
 
 if __name__=="__main__":
     rnd.seed(1)
-    set_lotto = list(lotto_generator())
+    set_lotto= list(lotto_generator())
     print("로또 번호: {}".format(bubble_sort(set_lotto))) #정렬된 결과
