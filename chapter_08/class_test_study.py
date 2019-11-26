@@ -23,3 +23,4 @@ if __name__ == "__main__":
 
     [print(c) for c in [my_bicycle,my_bicycle2]]
     print(my_bicycle.wheel_size)
+
