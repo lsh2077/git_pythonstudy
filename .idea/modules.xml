@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../git-mysql/.idea/git-mysql.iml" filepath="$PROJECT_DIR$/../git-mysql/.idea/git-mysql.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/git_pythonstudy.iml" filepath="$PROJECT_DIR$/.idea/git_pythonstudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../padas_study/.idea/padas_study.iml" filepath="$PROJECT_DIR$/../padas_study/.idea/padas_study.iml" />
       <module fileurl="file://$PROJECT_DIR$/../qt_study/.idea/qt_study.iml" filepath="$PROJECT_DIR$/../qt_study/.idea/qt_study.iml" />
     </modules>
   </component>

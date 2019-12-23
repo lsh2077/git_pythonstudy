@@ -6,6 +6,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="git-mysql" />
     <orderEntry type="module" module-name="qt_study" />
+    <orderEntry type="module" module-name="padas_study" />
   </component>
   <component name="TestRunnerService">
     <option name="projectConfiguration" value="pytest" />

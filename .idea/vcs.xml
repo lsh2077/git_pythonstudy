@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/../git-mysql" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../padas_study" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../qt_study" vcs="Git" />
   </component>
 </project>
